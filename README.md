@@ -37,7 +37,7 @@ python download.py
 
 To save some typing on Unix shells, use the following oneliner.
 ```bash
-python -c "$(curl -fsSL https://raw.githubusercontent.com/jopohl/slf/main/download.py)"
+python -c "$(curl -fsSL https://raw.githubusercontent.com/jopohl/slf/master/download.py)"
 ```
 
 Alternatively, manually download the latest version of ```slf``` for your OS with one of the links below.
