@@ -17,7 +17,7 @@ $ slf -n 6 /
 
 #### Show 5 largest directories in /usr
 ```bash
-$ slf -d -n 5 /var
+$ slf -d -n 5 /usr
 15.94 GiB /usr/local
 7.142 GiB /usr/lib
 5.809 GiB /usr/share
