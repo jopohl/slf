@@ -30,7 +30,9 @@ $ slf -d -n 5 /var
 The easiest way to download the latest version of ```slf``` is to use the bundled ```download.py``` which automatically detects your OS and places the according version of ```slf``` into the current directory.
 ```bash
 git clone https://github.com/jopohl/slf
+cd slf
 python download.py
+./slf    # Running without any argument will scan the current directory
 ```
 
 To save some typing on Unix shells, use the following oneliner.
